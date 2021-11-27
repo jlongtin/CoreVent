@@ -9,18 +9,15 @@ Copy all files to subdirectory named <UPDATE DIRECTORY>
 
 ## Usage
 
-```python
-import foobar
+# Arduino code (/Arduino)
+Download all files 
 
-# returns 'words'
-foobar.pluralize('word')
+# Design docs (/Design)
+View PDF or edit CorelDraw 2020 .CDR file
 
-# returns 'geese'
-foobar.pluralize('goose')
+# Bill of Materials (/BoM)
+View bill of materials in PDF form.
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 ## Contributing
 Pull requests and modifications are welcome. For major changes, please open an issue first to discuss what you would like to change.
