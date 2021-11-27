@@ -9,13 +9,13 @@ Copy all files to subdirectory named <UPDATE DIRECTORY>
 
 ## Usage
 
-# Arduino code (/Arduino)
+### Arduino code (/Arduino)
 Download all files 
 
-# Design docs (/Design)
+### Design docs (/Design)
 View PDF or edit CorelDraw 2020 .CDR file
 
-# Bill of Materials (/BoM)
+### Bill of Materials (/BoM)
 View bill of materials in PDF form.
 
 
