@@ -10,10 +10,10 @@ The ventilator is described in detail in the following jourjnal article:
 
 ## Usage
 
-### Arduino code (/Arduino)
+### Arduino code (/Arduino Code)
 Download all .ino files into subdirectory named CoreVent.  Launch Arduino environment and load CoreVent.ino.  Compile and upload. 
 
-### Design docs (/Design)
+### Design docs (/Design Docs)
 View PDF or edit CorelDraw 2020 .CDR file
 
 
